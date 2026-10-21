@@ -1,0 +1,15 @@
+
+## .via-cream{ @25802
+.via-cream{--tw-gradient-via:var(--cream);--tw-gradient-via-stops:var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-via-stops)}.to-meadow{--tw-gradient-to:var(--meadow);--tw-gradient-stops:var(--tw-gradient-via-stops,var(--tw-gradient-p
+
+## .bg-cream @23472
+.bg-cream,.bg-cream\/60{background-color:var(--cream)}@supports (color:color-mix(in lab, red, red)){.bg-cream\/60{background-color:color-mix(in oklab, var(--cream) 60%, transparent)}}.bg-destructive{background-color:var(--destructive)}.bg-foreground,.bg-foreground\/80{background-color:var(--foreground)}@supports (color:color-mix(in lab, red, red)){.bg-foreground\/80{background-color:color-mix(in oklab, var(--foregrou
+
+## .font-display{ @29388
+.font-display{font-family:Fraunces,ui-serif,Georgia,serif}.font-mono{font-family:JetBrains Mono,ui-monospace,monospace}.text-3xl{font-size:var(--text-3xl);line-height:var(--tw-leading,var(--text-3xl--line-height))}.text-4xl{font-size:var(--text-4xl);line-height:var(--tw-leading,var(--text-4xl--line-height))}.text-5xl{font-size:var(--text-5xl);line-height:var(--tw-leading,var(--text-5xl--line-height))}.text-6xl{font-s
+
+## :root{--radius @79230
+:root{--radius:1rem;--cream:oklch(97.5% .02 85);--sky-soft:oklch(88% .05 235);--meadow:oklch(82% .08 135);--sunset:oklch(72% .25 142);--ink:oklch(22% .03 260);--background:oklch(97.5% .02 85);--foreground:oklch(22% .03 260);--card:oklch(100% 0 0);--card-foreground:oklch(22% .03 260);--popover:oklch(100% 0 0);--popover-foreground:oklch(22% .03 260);--primary:oklch(70% .22 142);--primary-foreground:oklch(99% .005 85);-
+
+## HTML radial
+radial-gradient(ellipse at 20% 40%, rgba(255,255,255,0.9), transparent 50%), radial-gradient(ellipse at 70% 30%, rgba(255,255,255,0.8), transparent 55%), radial-gradient(ellipse at 45% 60%, rgba(255,255,255,0.7), transparent 50%)"></div><div class="absolute right-8 top-24 h-24 w-24 rounded-full bg-sunset/60 blur-2xl sm:right-24 sm:h-40 sm:w-40"></div></div><div class="mx-auto grid max-w-6xl grid-cols-1 items-center g

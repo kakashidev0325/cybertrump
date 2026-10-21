@@ -1,0 +1,1 @@
+var e={version:1,asset_id:`8da126c2-0dc2-4b6b-a6f9-ae431beb6c7d`,project_id:`3bd4b212-1a0e-4490-b946-0cd325bfb57d`,url:`/assets/mcat/emblem.jpg`,r2_key:`a/v1/3bd4b212-1a0e-4490-b946-0cd325bfb57d/8da126c2-0dc2-4b6b-a6f9-ae431beb6c7d/hmm-emblem-cat.png`,original_filename:`hmm-emblem-cat.png`,size:1349268,content_type:`image/png`,created_at:`2026-07-20T01:11:14Z`};export{e as t};
