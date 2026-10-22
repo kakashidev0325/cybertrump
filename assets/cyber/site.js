@@ -1,4 +1,4 @@
-const CA = "CridzCU2x3hczwNaonTRo3QpWbi7aPdCsLxsGw4Mpump";
+const CA = "TBA";
 const ANSWERS = [
   "MAKE IT GREAT",
   "BUY THE DIP",
